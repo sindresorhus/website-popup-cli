@@ -1,0 +1,35 @@
+# website-popup-cli [![Build Status](https://travis-ci.org/sindresorhus/website-popup-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/website-popup-cli)
+
+> Open a website in a popup *(OS X)*
+
+<img src="https://github.com/sindresorhus/website-popup/raw/master/screenshot.png" width="759">
+
+
+## Install
+
+```
+$ npm install --global website-popup-cli
+```
+
+
+## Usage
+
+```
+$ website-popup --help
+
+  Usage
+    $ website-popup <url> [--size=<size>]
+
+  Example
+    $ website-popup https://sindresorhus.com --size=600x400
+```
+
+
+## Related
+
+- [website-popup](https://github.com/sindresorhus/website-popup) - API for this module
+
+
+## License
+
+MIT © [Sindre Sorhus](https://sindresorhus.com)

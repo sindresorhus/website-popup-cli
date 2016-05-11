@@ -1,0 +1,46 @@
+{
+  "name": "website-popup-cli",
+  "version": "0.0.0",
+  "description": "Open a website in a popup (OS X)",
+  "license": "MIT",
+  "repository": "sindresorhus/website-popup-cli",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bin": {
+    "website-popup": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "website",
+    "popup",
+    "osx",
+    "mac",
+    "site",
+    "page"
+  ],
+  "dependencies": {
+    "meow": "^3.7.0",
+    "website-popup": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.4.0",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
