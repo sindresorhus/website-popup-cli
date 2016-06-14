@@ -1,7 +1,7 @@
 {
   "name": "website-popup-cli",
   "version": "1.0.0",
-  "description": "Open a website in a popup (OS X)",
+  "description": "Open a website in a popup (macOS)",
   "license": "MIT",
   "repository": "sindresorhus/website-popup-cli",
   "author": {
@@ -26,6 +26,7 @@
     "cli",
     "website",
     "popup",
+    "macos",
     "osx",
     "mac",
     "site",

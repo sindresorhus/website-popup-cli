@@ -1,6 +1,6 @@
 # website-popup-cli [![Build Status](https://travis-ci.org/sindresorhus/website-popup-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/website-popup-cli)
 
-> Open a website in a popup *(OS X)*
+> Open a website in a popup *(macOS)*
 
 <img src="https://github.com/sindresorhus/website-popup/raw/master/screenshot.png" width="759">
 
