@@ -1,4 +1,4 @@
-# website-popup-cli [![Build Status](https://travis-ci.org/sindresorhus/website-popup-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/website-popup-cli)
+# website-popup-cli
 
 > Open a website in a popup *(macOS)*
 
